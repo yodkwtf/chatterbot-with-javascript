@@ -36,7 +36,6 @@ const generateUniqueID = () => {
 // to show message letter by letter
 const typeMessage = (message, element) => {
   const letters = message.split('');
-  console.log(letters);
   element.innerHTML = '';
 
   letters.forEach((letter, index) => {

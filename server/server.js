@@ -20,7 +20,7 @@ app.use(cors());
 // Create a route
 app.get('/', async (req, res) => {
   res.status(200).send({
-    message: 'Hello World',
+    message: 'Hello from ChatterBot!',
   });
 });
 
