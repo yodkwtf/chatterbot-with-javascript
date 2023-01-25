@@ -7,6 +7,7 @@ An AI powered chat bot built with HTML, CSS, vanilla JavaScript for the frontend
 ## Live Preview
 
 [ChatterBot - Live Demo](https://chatterbot-dk.netlify.app/)
+
 [ChatterBot Server](https://chatterbot-dk.onrender.com)
 
 ## Key Components
