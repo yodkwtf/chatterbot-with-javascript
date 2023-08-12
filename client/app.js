@@ -41,7 +41,7 @@ const typeMessage = (message, element) => {
   letters.forEach((letter, index) => {
     setTimeout(() => {
       element.innerHTML += letter === '\n' ? '<br>' : letter;
-    }, 50 * index);
+    }, 25 * index);
   });
 };
 
